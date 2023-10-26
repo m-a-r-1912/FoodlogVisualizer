@@ -1,0 +1,1 @@
+//This will have the header component: the logout button on the RH and the authenticate user's name on LH 

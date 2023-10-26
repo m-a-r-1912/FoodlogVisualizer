@@ -1,0 +1,2 @@
+FOODLOG_FILENAME = "foodlog"
+FOODLOG_FOLDERNAME = "fitbit_data"
