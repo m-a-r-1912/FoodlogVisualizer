@@ -8,11 +8,8 @@
 - Correctly displays import and data options. Only the 'days back' option and 'refresh data' button are currently wired up
   
 ### Plan:
-#### Beginning November
 - Fully functional data and import options
 - Calendar heatmap is optimally responsive to viewport size changes
 - Data import selection is instantly reflected in the calendar heatmap without having to refresh data from backend
-
-#### Mid-November
 - Add responsive analytics table
 - Data import selection is instantly reflected in the analytics table without having to refresh data from backend
